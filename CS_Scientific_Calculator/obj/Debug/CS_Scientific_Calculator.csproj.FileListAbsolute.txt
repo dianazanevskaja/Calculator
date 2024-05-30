@@ -1,0 +1,11 @@
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.exe.config
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.exe
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\bin\Debug\CS_Scientific_Calculator.pdb
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csproj.AssemblyReference.cache
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.Form1.resources
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.Properties.Resources.resources
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csproj.GenerateResource.cache
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.exe
+D:\Visual Studio\CS_Scientific_Calculator\CS_Scientific_Calculator\obj\Debug\CS_Scientific_Calculator.pdb
